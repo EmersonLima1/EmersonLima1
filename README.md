@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Emerson Lima 👋
 
-- 🌱 Eu estou atualmente estudando Python com foco em Ciência de Dados.
+- 🌱 Eu estou atualmente estudando Python e Power BI com foco em Ciência de Dados.
 - 🔭 Graduado em Ciência da Computação e Pós-graduando em Data Science.
 
 
