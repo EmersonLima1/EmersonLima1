@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Emerson Lima 👋
 
+<table><tr><td valign="top" width="33%">
+
 - 🌱 Eu estou atualmente estudando Python e Power BI com foco em Ciência de Dados.
 - 🔭 Graduado em Ciência da Computação e Pós-graduando em Data Science.
 - 👨‍💻 Estou à procura de oportunidades de emprego na área de dados.
@@ -11,7 +13,7 @@
 
 
 ## Meu conjunto de habilidades  
-<table><tr><td valign="top" width="33%">
+
 
 <div align="center">
   <a href="https://github.com/EmersonLima1">
