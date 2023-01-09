@@ -11,9 +11,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonLima1&layout=compact&langs_count=16&theme=tokyonight"/> 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Emerson-Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Emerson-Pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Emerson-" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Emerson - Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Emerson - Pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Emerson - Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Emerson - Matplotlib" height="30" width="150" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png">
+  <img align="center" alt="Emerson - PowerBI" height="70" width="70" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
+  <img align="center" alt="Emerson - PowerBI" height="70" width="70" src="https://profilinator.rishav.dev/skills-assets/powerbi.png">
+  
+  
 </div>
   
   ##
