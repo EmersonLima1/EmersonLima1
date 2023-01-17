@@ -2,7 +2,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-- 🌱 Eu estou atualmente estudando Python e Power BI com foco em Ciência de Dados.
+- 🌱 Eu estou atualmente estudando Python e Power BI com foco em Análise de Dados.
 - 🔭 Graduado em Ciência da Computação e Pós-graduando em Data Science.
 - 👨‍💻 Estou à procura de oportunidades de emprego na área de dados.
 
