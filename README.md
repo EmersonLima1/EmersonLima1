@@ -2,11 +2,9 @@
 
 <table><tr><td valign="top" width="33%">
 
-- 🌱 Eu estou atualmente estudando Python e Power BI com foco em Análise de Dados.
-- 🔭 Graduado em Ciência da Computação e Pós-graduando em Data Science.
+- 🌱 Atualmente minha linha de estudos está voltada para área de Ciência de Dados, com uso da linguagem Python.
+- 🔭 Graduado em Ciência da Computação e Pós-graduando em Ciência de Dados.
 - 👨‍💻 Estou à procura de oportunidades de emprego na área de dados.
-
-
 
 
 ## 
@@ -23,9 +21,11 @@
   <img align="center" alt="Emerson - Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Emerson - Pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Emerson - Numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Emerson - Matplotlib" height="30" width="150" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png">
+  <img align="center" alt="Emerson - Matplotlib" height="30" width="150" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png">
   <img align="center" alt="Emerson - PowerBI" height="70" width="70" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
+  <img align="center" alt="Emerson - PowerBI" height="70" width="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png">
   <img align="center" alt="Emerson - PowerBI" height="70" width="70" src="https://profilinator.rishav.dev/skills-assets/powerbi.png">
+  
   
   
 </div>
