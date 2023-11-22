@@ -3,7 +3,7 @@
 <table><tr><td valign="top" width="33%">
 
 - 🌱 Atualmente minha linha de estudos está voltada para área de Ciência de Dados, com uso da linguagem Python.
-- 🔭 Graduado em Ciência da Computação e Pós-graduando em Ciência de Dados.
+- 🔭 Graduado em Ciência da Computação e cursando Pós-graduação em Ciência de Dados e Tecnólogo em Banco de Dados.
 - 👨‍💻 Estou à procura de oportunidades de emprego na área de dados.
 
 
