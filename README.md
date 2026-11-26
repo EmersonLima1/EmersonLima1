@@ -16,11 +16,11 @@ Busco oportunidades como **Analista de Dados, Analista de BI** e posições inic
 ## 💼 Experiência
 
 **Analista de Dados** · 2024 – atual
-- Tratamento, organização e **integração de dados de clientes** em formatos variados para os sistemas internos, com volumes acima de **1 milhão de registros**.
+- Tratamento, organização e **integração de dados de clientes** em formatos variados para os sistemas internos.
 - **Scripts em Python** para limpeza, transformação e validação de dados, automatizando rotinas de ETL: algumas tarefas que levavam horas passaram a levar poucos minutos.
 - **Dashboards no Looker Studio** para acompanhamento de KPIs, com dados de Google Sheets e **BigQuery** (ex.: indicadores de pesquisas de clima, como eNPS e adesão).
 - **Dashboards e ferramentas em Streamlit** para visualização, exploração e análise de dados.
-- Preparação e parametrização de dados para um módulo de **People Analytics** e, mais recentemente, integração de dados de **sistemas de folha de pagamento**.
+- Integração de dados de **sistemas de folha de pagamento** com o sistema da empresa.
 
 **Estagiário em Ciência de Dados, InPES (Instituto de Pesquisa e Extensão em Saúde Pública)** · 2023 – 2024
 - Backend de aplicações web com **Flask** e ferramentas internas em Python/Streamlit para transformar e validar planilhas.
