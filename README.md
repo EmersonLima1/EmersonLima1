@@ -1,6 +1,6 @@
 # Olá, eu sou o Emerson Lima 👋
 
-**Analista de Dados (DataOps) na Mindsight** · Bacharel em Ciência da Computação (UESB) · Pós-graduado em Ciência de Dados (UNIFACS)
+**Analista de Dados (DataOps)** · Bacharel em Ciência da Computação (UESB) · Pós-graduado em Ciência de Dados (UNIFACS)
 
 Trabalho com tratamento, integração e validação de dados, automação de processos de ETL com Python e dashboards em Looker Studio e Streamlit.
 Busco oportunidades como **Analista de Dados, Analista de BI** e posições iniciais em **Engenharia de Dados** e **Ciência de Dados / Machine Learning**.
@@ -15,10 +15,10 @@ Busco oportunidades como **Analista de Dados, Analista de BI** e posições inic
 
 ## 💼 Experiência
 
-**Analista de Dados (DataOps), Mindsight** · 2024 – atual
+**Analista de Dados (DataOps)** · 2024 – atual
 - Tratamento, organização e **integração de dados de clientes** em formatos variados para os sistemas internos, com volumes acima de **1 milhão de registros**.
 - **Scripts em Python** para limpeza, transformação e validação de dados, automatizando rotinas de ETL: algumas tarefas que levavam horas passaram a levar poucos minutos.
-- **Dashboards no Looker Studio** para acompanhamento de KPIs, com dados de Google Sheets e **BigQuery**.
+- **Dashboards no Looker Studio** para acompanhamento de KPIs, com dados de Google Sheets e **BigQuery** (ex.: indicadores de pesquisas de clima, como eNPS e adesão).
 - **Dashboards e ferramentas em Streamlit** para visualização, exploração e análise de dados.
 - Preparação e parametrização de dados para um módulo de **People Analytics** e, mais recentemente, integração de dados de **sistemas de folha de pagamento**.
 
