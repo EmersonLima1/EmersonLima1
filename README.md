@@ -1,6 +1,6 @@
 # Olá, eu sou o Emerson Lima 👋
 
-**Analista de Dados Júnior** · Bacharel em Ciência da Computação (UESB) · Pós-graduando em Ciência de Dados (UNIFACS)
+**Analista de Dados Júnior** · Bacharel em Ciência da Computação (UESB) · Pós-graduado em Ciência de Dados (UNIFACS)
 
 Trabalho com tratamento, padronização e validação de dados, automação com Python e dashboards em Looker Studio.
 Busco oportunidades como **Analista de Dados, Analista de BI** e posições iniciais em **Engenharia de Dados** e **Ciência de Dados / Machine Learning**.
@@ -50,11 +50,12 @@ Busco oportunidades como **Analista de Dados, Analista de BI** e posições inic
 
 | Projeto | O que mostra |
 |---|---|
-| [Portfolio-Ciencia-de-Dados](https://github.com/EmersonLima1/Portfolio-Ciencia-de-Dados) | Coletânea de projetos de ciência de dados (acadêmicos e de autoaprendizado) |
-| [projeto_sql_filmes](https://github.com/EmersonLima1/projeto_sql_filmes) | Exploração de um conjunto de dados de filmes com SQL e Python |
-| [analise_dados_exoplanetas](https://github.com/EmersonLima1/analise_dados_exoplanetas) | Análise de dados de exoplanetas *(descrever em 1 linha)* |
-| [previsao-demanda](https://github.com/EmersonLima1/previsao-demanda) | Previsão de demanda *(descrever em 1 linha)* |
-| [streamlit-correcao-planilhas](https://github.com/EmersonLima1/streamlit-correcao-planilhas) | App Streamlit para correção de planilhas *(descrever em 1 linha)* |
+| [Exoplanetas: além do nosso Sol](https://github.com/EmersonLima1/analise_dados_exoplanetas) | Coleta de dados do Open Exoplanet Catalogue, enriquecimento com **web scraping (Selenium)** na NASA Exoplanet Archive e análise exploratória de mais de 4.800 exoplanetas |
+| [Filmes com SQL e Python](https://github.com/EmersonLima1/projeto_sql_filmes) | Conversão de um CSV de ~1 milhão de filmes (TMDb) em banco **SQLite** e app de terminal em Python que executa consultas SQL |
+| [Desafio Analista de Dados / Analytics Engineer](https://github.com/EmersonLima1/Projeto04) | Simulação de um projeto de analytics para uma empresa fictícia (desafio Lighthouse) |
+| [Enade: análise exploratória](https://github.com/EmersonLima1/Projeto01) | EDA com Python dos dados do Enade 2011, 2014 e 2017 de cursos de computação em Vitória da Conquista |
+
+➡️ Lista completa no meu [Portfólio de Ciência de Dados](https://github.com/EmersonLima1/Portfolio-Ciencia-de-Dados).
 
 ## 🌱 Em desenvolvimento
 
